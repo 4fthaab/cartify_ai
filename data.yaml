@@ -1,0 +1,31 @@
+path: datasets
+train: images/train
+val: images/val
+
+nc: 25
+names:
+  - mineral_water_bottle
+  - juice_frooti
+  - softdrink_pepsi
+  - milk_packet
+  - boost
+  - biscuit_bourbon
+  - biscuit_parle_g
+  - biscuit_good_day
+  - noodles_maggi
+  - soap_lux_lotus
+  - soap_lux_rose
+  - soap_dr_wash
+  - dishbar_exo
+  - dishbar_pril
+  - toilet_cleaner_harpic
+  - fabric_conditioner
+  - sunflower_oil_bottle
+  - rasna_powder
+  - chicken_masala
+  - maida_pack
+  - ghee_bottle
+  - toothpaste_colgate
+  - fruit_apple
+  - fruit_orange
+  - fruit_banana
